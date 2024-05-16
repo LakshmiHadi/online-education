@@ -134,6 +134,7 @@ section{
         border-top: .1rem solid var(--light-white);
         border-bottom: .1rem solid var(--light-white);
         background-color: var(--light-bg);
+        clip-path: polygon(0 0,100% 0,100% 0,0 0);
     }
 
     .header .flex .navbar a{
