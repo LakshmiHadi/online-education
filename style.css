@@ -66,6 +66,17 @@ section{
     color: var(--black);
 }
 
+.heading{
+    margin-bottom: 2.5rem;
+    text-align: center;
+    font-size: 4rem;
+    color: var(--white);
+}
+
+.heading span{
+    color: var(--green);
+}
+
 .header{
     position: fixed;
     top: 0;left: 0;right: 0;
@@ -280,14 +291,14 @@ section{
 
 }
 
-@media (max-width:991px){
+@media (max-width:450px){
 
     html{
         font-size: 50%;
     }
 
     .home .row .content  h3{
-        font-size: 6rem;
+        font-size: 5rem;
     }
 
 
