@@ -71,6 +71,7 @@ section{
     text-align: center;
     font-size: 4rem;
     color: var(--white);
+   /*text-transfrom: uppercase; */
 }
 
 .heading span{
@@ -208,6 +209,32 @@ section{
 
 .about .row .content p{
     padding: 1rem 0;
+    line-height: 2;
+    font-size: 1.6rem;
+    color: var(--light-white);
+}
+
+.courses .slide{
+    width: 30rem;
+    background-color: var(--light-bg);
+    border-radius: .5rem;
+    text-align: center;
+    padding: 2rem;
+    margin-bottom: 4rem;
+}
+
+.courses .slide img{
+    height: 25rem;
+    width: 100%;
+}
+
+.courses .slide h3{
+    margin: 1.5rem;
+    font-size: 2rem;
+    color: var(--white);
+}
+
+.courses .slide p{
     line-height: 2;
     font-size: 1.6rem;
     color: var(--light-white);
