@@ -66,3 +66,13 @@ Career Advancement Opportunities.
 Increased Collaboration. 
 Personalized Education. 
 Enhanced Time Management Skills.
+
+
+What are the benefits of online education?
+Online education will work best for some learners, while others will prefer a blended or completely face to face approach.
+
+There are many benefits to an online education:
+
+Flexible locations – learners can study wherever they are, even if they move to a different city or country.
+More individual support to meet learning needs – online classes tend to be smaller with more opportunities for one-to-one support. from a tutor, and can be more targeted to learners’ particular learning styles and needs.
+Access to a Cambridge education – learners can access our curriculum even if there isn’t a Cambridge school nearby, or if they move locations regularly. Although learners at Cambridge Upper Secondary and Advanced stages will need to attend a registered Cambridge International venue to sit their exams.
