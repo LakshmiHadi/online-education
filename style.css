@@ -248,7 +248,24 @@ section{
     background-color: var(--green);
 }
 
+.teachers .slide{
+    position: relative;
+}
 
+.teachers .slide img{
+    height: 55rem;
+    width: 100%;
+    object-fit: cover;
+    border-radius: .5rem;
+}
+
+.teachers .slide h3{
+    margin-top: 1.5rem;
+    font-size: 2rem;
+    color: var(--white);
+}
+
+.teachers .slide 
 
 
 
