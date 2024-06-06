@@ -250,6 +250,8 @@ section{
 
 .teachers .slide{
     position: relative;
+    width: 40rem;
+    overflow: hidden;
 }
 
 .teachers .slide img{
@@ -262,12 +264,17 @@ section{
 .teachers .slide h3{
     margin-top: 1.5rem;
     font-size: 2rem;
+    text-align: center;
     color: var(--white);
 }
 
 .teachers .slide .share{
     position: absolute;
-    top: 1rem; left: 2rem;
+    top: 1rem; left: -10rem;
+}
+
+.teachers .slide:hover .share{
+    left: 2rem;
 }
 
 .teachers .slide .share a{
@@ -279,6 +286,8 @@ section{
     border-radius: .5rem;
     background-color: var(--white);
     color: var(--black);
+    text-align: center;
+    font-size: 2rem;
 }
 
 .teachers .slide .share a:hover{
