@@ -47,3 +47,24 @@ var swiper = new swiper(".teachers-slider",{
         },
     },
 });
+
+var swiper = new swiper(".reviews-slider",{
+    spaceBetween: 20,
+    grabcursor:true,
+    loop:true,
+    pagination: {
+        el: ".swiper-pagination",
+        clicktable: true,
+    },
+    breakpoints: {
+        640: {
+            slidesperview: 1,
+        },
+        768: {
+            slidesperview: 2,
+        },
+        1024: {
+            slidesperview: 3,
+        },
+    },
+});
