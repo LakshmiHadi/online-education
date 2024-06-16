@@ -352,6 +352,10 @@ section{
     width: 100%;
 }
 
+.contact .row from{
+    flex: 1 1 40rem;
+}
+
 .contact .row from .box{
     width: 100%;
     margin-top: 1rem;
