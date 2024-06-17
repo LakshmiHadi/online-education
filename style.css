@@ -364,6 +364,22 @@ section{
     background-color: var(--light-bg);
     font-size: 1.8rem;
     color: var(--white);
+    padding: 1.4rem;
+}
+
+.contact .row from span{
+    font-size: 1.6rem;
+    color: var(--light-white);
+}
+
+.contact .row from .radio{
+    margin-top: 2rem;
+}
+
+.contact .row from .radio label{
+    font-size: 1.6rem;
+    color: var(--light-white);
+    margin-left: .5rem;
 }
 
 
