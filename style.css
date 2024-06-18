@@ -374,6 +374,7 @@ section{
 
 .contact .row from .radio{
     margin-top: 2rem;
+    margin-bottom: 1rem;
 }
 
 .contact .row from .radio label{
@@ -391,8 +392,21 @@ section{
     appearance: none;
     height: 2rem;
     width: 2rem;
-    background-color: var(--white);
+    background-color: var(--light-white);
     cursor: pointer;
+}
+
+.contact .row from .radio input:checked{
+    background-color: var(--green);
+    border-radius: 5rem;
+}
+
+.contact .row from .radio #male:checked ~ label[for="male"]{
+    color: var(--green);
+}
+
+.contact .row from .radio #female:checked ~ label[for="female"]{
+    color: var(--green);
 }
 
 
