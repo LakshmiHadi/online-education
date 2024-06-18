@@ -380,6 +380,19 @@ section{
     font-size: 1.6rem;
     color: var(--light-white);
     margin-left: .5rem;
+    cursor: pointer;
+}
+
+.contact .row from .radio #female{
+    margin-left: 2rem;
+}
+
+.contact .row from .radio input{
+    appearance: none;
+    height: 2rem;
+    width: 2rem;
+    background-color: var(--white);
+    cursor: pointer;
 }
 
 
