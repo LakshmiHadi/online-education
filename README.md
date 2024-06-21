@@ -4,11 +4,11 @@ Online education is a procedure of gaining skills and knowledge through electron
 
 Through online courses, students can gain the knowledge they need to earn their degree or grow in their profession. Online courses allow you to earn essentially the same range of different degrees that can be earned from a traditional educational environment.
 
-What is Online Education?
+* What is Online Education?
 
 Online education, also known as virtual education, is a form of learning that uses digital technology to access educational curricula and instructional resources. This type of learning allows students to take classes from the comfort of their own homes or wherever they have an internet connection. Through online education, students can attend lectures and participate in discussions with instructors and classmates without the need to be physically present in the classroom. Online education is becoming increasingly popular as it offers flexibility and convenience for the students who may not have access to traditional educational settings.
 
-How Does Online Education Work?
+* How Does Online Education Work?
 
 
 Online education is a learning system that allows students to learn and grow at their own pace. In this type of learning environment, no physical classrooms or teachers are present, and the student can access course material from anywhere with an internet connection.
@@ -27,9 +27,7 @@ Personalized Education.
 Enhanced Time Management Skills.
 
 
-
-
-What are the benefits of online education?
+* What are the benefits of online education?
 
 
 Online education will work best for some learners, while others will prefer a blended or completely face to face approach.
