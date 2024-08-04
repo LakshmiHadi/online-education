@@ -14,6 +14,10 @@ Online education, also known as virtual education, is a form of learning that us
 Online education is a learning system that allows students to learn and grow at their own pace. In this type of learning environment, no physical classrooms or teachers are present, and the student can access course material from anywhere with an internet connection.
 
 
+![image](https://github.com/user-attachments/assets/e109d7ac-56d3-4241-b8d2-064a17fe9b4b)
+
+
+
 Advantages of Online Learning
 
 
